@@ -15,7 +15,7 @@ Where...
 
 `[HEIGHT]` := The height of the rectangle that should be henerated with this pattern
 
-`[\# OF REPEATS]` := How many times the pattern should repeat at the smallest point of the rectangle
+`[# OF REPEATS]` := How many times the pattern should repeat at the smallest point of the rectangle
 
 ### Runnable Example
 
